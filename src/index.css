@@ -1,0 +1,14 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.gif {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
